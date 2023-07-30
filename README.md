@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhaskar-Rao-1
+- 👋 Hi, I’m @Bhaskara Rao
 - 👀 I’m interested in learning programming languages
 - 🌱 I’m currently studying B.Tech in C.S.E branch
 - 💞️ I’m looking for internship offer to develop my skills 
